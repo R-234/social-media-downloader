@@ -16,4 +16,4 @@ A multi-platform media downloader supporting:
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app.pygit
